@@ -29,8 +29,8 @@ A modern, secure password generator built with **React** that uses the **Web Cry
 
 ## 🖼️ Screenshots
 
-![Screenshot 1](screenshots/1.png)  
-![Screenshot 2](screenshots/2.png)  
+![Screenshot 1](screenshots/1.PNG)  
+![Screenshot 2](screenshots/2.PNG)  
 
 ---
 
@@ -40,3 +40,4 @@ A modern, secure password generator built with **React** that uses the **Web Cry
 ```bash
 git clone https://github.com/yourusername/secure-password-generator.git
 cd secure-password-generator
+
